@@ -1,0 +1,55 @@
+header{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#foto{
+    text-align: center;
+    border: solid 1px black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: linear-gradient(to bottom, green, gray);
+    border-radius: 20px;
+}
+
+h3{
+    background-color: orange;
+}
+
+h4{
+    display: inline-block;
+    background-color: aqua;
+}
+
+ul{
+    list-style-type: square;
+    color: blueviolet;
+    box-shadow: 0 0 10px gray;
+}
+
+footer{
+    background-color: lightslategrey;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;    
+}
+
+footer h4{
+    background-color:unset;
+}
+
+footer a{
+    color: whitesmoke;
+}
+
+form {
+    border: solid 2px brown;
+    padding-left: 10px;
+    width: 500px;
+    border-radius: 15px;
+    background: linear-gradient(to right, lightblue, gray);
+}
+
+body {
+    font-family: 'Rowdies', cursive;
+}
