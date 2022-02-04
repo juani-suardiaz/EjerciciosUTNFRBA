@@ -1,0 +1,40 @@
+header{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#foto{
+    text-align: center;
+    border: solid 1px black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h3{
+    background-color: orange;
+}
+
+h4{
+    display: inline-block;
+    background-color: aqua;
+}
+
+ul{
+    list-style-type: square;
+    color: blueviolet;
+}
+
+footer{
+    background-color: lightslategrey;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+footer h4{
+    background-color:unset
+}
+
+footer a{
+    color: whitesmoke;
+}
